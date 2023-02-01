@@ -1,0 +1,16 @@
+{
+  "name": "material-atomic-desgin-folder-icons",
+  "version": "1.0.0",
+  "description": "Material icons for atomic design folder structure",
+  "type": "module",
+  "scripts": {
+    "svgo": "svgo -f ./assets/icons -o ./assets/icons",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svgo": "^3.0.2"
+  }
+}
