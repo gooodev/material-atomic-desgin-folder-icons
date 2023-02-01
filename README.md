@@ -28,7 +28,8 @@ Material icons for atomic design folder structure
 ```
 
 5. Create folder for atomic design structure.
-   <img src="https://github.com/gooodev/material-atomic-desgin-folder-icons/blob/main/assets/readme/folder.png" alt="screenshot of vscode file explorer">
+<img src="https://github.com/gooodev/material-atomic-desgin-folder-icons/blob/main/assets/readme/folder.png" alt="screenshot of vscode file explorer">
+
 
 - If it doesn't work, check your material icon extension color setting and turn it to default. (This extensions customization doesn't work on other than default.)
-  <img src="https://github.com/gooodev/material-atomic-desgin-folder-icons/blob/main/assets/readme/change-color.png" alt="screenshot of changing extensions color">
+<img src="https://github.com/gooodev/material-atomic-desgin-folder-icons/blob/main/assets/readme/change-color.png" alt="screenshot of changing extensions color">
