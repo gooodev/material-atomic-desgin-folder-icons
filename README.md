@@ -31,7 +31,9 @@ Material icons for atomic design folder structure
 <img src="https://github.com/gooodev/material-atomic-desgin-folder-icons/blob/main/assets/readme/folder.png" alt="screenshot of vscode file explorer">
 
 ### If it doesn't work, please check below
-- Icon paths have to be the relative path from "dist" folder of extension. Please check below for detail.
+- Icon paths have to be the relative path from `dist` folder of the extension. Please check below for detail.
+
 https://github.com/PKief/vscode-material-icon-theme/issues/1834
-- If it doesn't work, check your material icon extension's color setting and turn it to default. (This folder icon association setting doesn't work with custom color setting.)
+
+- Your color setting of the extension has to be default. (This folder icon association setting doesn't work with custom color setting.)
 <img src="https://github.com/gooodev/material-atomic-desgin-folder-icons/blob/main/assets/readme/change-color.png" alt="screenshot of changing extensions color">
